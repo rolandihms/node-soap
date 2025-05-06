@@ -9,7 +9,7 @@
   "dependencies": {
     "axios-ntlm": "^1.2.0",
     "debug": "^4.3.2",
-    "formidable": "^3.2.4",
+    "formidable": "^3.5.4",
     "get-stream": "^6.0.1",
     "lodash": "^4.17.21",
     "sax": ">=0.6",
