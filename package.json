@@ -11,7 +11,7 @@
     "debug": "^4.3.2",
     "formidable": "^3.2.4",
     "get-stream": "^6.0.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "sax": ">=0.6",
     "strip-bom": "^3.0.0",
     "uuid": "^8.3.2",
